@@ -1,1 +1,4 @@
-This folder contains local pseudopotentials that are compatible with ABINIT program. 
+This folder contains local pseudopotentials in ABINIT's psp6 format. They can be directly read by ABINIT. 
+More details about the psp6 format can be found here:
+
+https://docs.abinit.org/developers/psp6_info/
