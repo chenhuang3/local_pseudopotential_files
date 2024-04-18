@@ -1,4 +1,8 @@
-This folder contains local pseudopotentials in ABINIT's psp6 format. They can be directly read by ABINIT. 
-More details about the psp6 format can be found here:
+This folder contains local pseudopotentials in ABINIT's psp6 or psp8 format. They can be directly read by ABINIT. 
+More details about these two formats can be found here:
 
 https://docs.abinit.org/developers/psp6_info/
+
+https://docs.abinit.org/developers/psp8_info/
+
+These LPSs can be converted to Quantum Espresso (QE)'s UPF format using the upfconv.x program shipped with QE.
