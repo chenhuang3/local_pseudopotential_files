@@ -1,0 +1,16 @@
+The ecut test is given below (assuming an FCC structure of oxygen)
+
+ecut / eV 	energy Hatree
+10000 	-78.84139153
+11000 	-78.86814955
+12000 	-78.88010302
+13000 	-78.88510404
+14000 	-78.88706494
+15000 	-78.88775618
+16000 	-78.88796709
+17000 	-78.8880152
+18000 	-78.88802082
+19000 	-78.88802226
+
+It reproduces O's 2s and 2p eigneglauve with errors < 1e-5 eV. 
+For the norms (beyond 0.4 bohr) of 2s and 2p, the error is 0.5% and 0.3%.
