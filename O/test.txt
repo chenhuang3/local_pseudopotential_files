@@ -12,5 +12,6 @@ ecut / eV 	energy Hatree
 18000 	-78.88802082
 19000 	-78.88802226
 
-It reproduces O's 2s and 2p eigneglauve with errors < 1e-5 eV. 
+It reproduces O's 2s and 2p eigenvalues with errors < 1e-5 eV. 
+
 For the norms (beyond 0.4 bohr) of 2s and 2p, the error is 0.5% and 0.3%.
